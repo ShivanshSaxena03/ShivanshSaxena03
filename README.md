@@ -26,8 +26,8 @@
 
 - 🎓 Pursuing **B.Tech + Integrated M.Tech in Computer Science** at **Jaypee Institute of Information Technology (JIIT)**  
 - 🌐 Visit my Portfolio: [shivanshsaxena.pythonanywhere.com](https://shivanshsaxena.pythonanywhere.com)  
-- 🚀 Exploring **Full Stack Development**, **Python**, **AI/ML**, and **DevOps**
-- 💼 Founder of a **Creative Media Agency** – specializing in **Video Editing**, **Graphic Design**, and **Digital Marketing**
+- 🚀 Exploring **Full Stack Development**, **Python**, **AI/ML**.
+- 💼 Founder of a **Creative Media Agency** – specializing in **Video Editing**, **Graphic Design**.
 - 👥 Running a tech-driven coding community: **[Ground Zero Coders](https://github.com/Ground-Zero-Coders)**  
 - 🛠️ Love building open-source projects and collaborating with communities
 
@@ -49,7 +49,7 @@
 ## 🧑‍💻 Tools I Use Often
 
 - VS Code, Git & GitHub  
-- Figma, Postman, PythonAnywhere  
+- PythonAnywhere , Netlify
 - Linux Terminal, MySQL Workbench, ChatGPT
 
 ---
