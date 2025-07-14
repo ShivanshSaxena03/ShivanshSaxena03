@@ -71,7 +71,15 @@
   <a href="https://www.instagram.com/_saxena03" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:shivanshsaxena03102006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shivanshsaxena.pythonanywhere.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Delhi%20NCR-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
+
 
 ---
 
