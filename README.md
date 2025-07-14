@@ -6,8 +6,8 @@
 <h1 align="center">Hi 👋, I'm Shivansh Saxena</h1>
 <p align="center">
   CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Learner | 
-  Founder <a href="https://www.instagram.com/_digital.panda_" target="_blank">@ Digital Panda</a> | 
-  Founder <a href="https://github.com/Ground-Zero-Coders" target="_blank">@ Ground Zero Coders</a> | 
+  Founder <a href="https://www.instagram.com/_digital.panda_" target="_blank">@Digital Panda</a> | 
+  Founder <a href="https://github.com/Ground-Zero-Coders" target="_blank">@Ground Zero Coders</a> | 
   Building Tech Communities
 </p>
 
