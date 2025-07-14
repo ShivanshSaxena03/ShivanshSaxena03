@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ShivanshSaxena03/ShivanshSaxena03/assets/banner.png" alt="Hi, I'm Shivansh!" width="100%" />
+  <img src="https://github.com/ShivanshSaxena03/ShivanshSaxena03/raw/main/banner.png" alt="Shivansh Saxena Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivansh Saxena</h1>
