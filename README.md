@@ -94,7 +94,7 @@
 
 - 🤝 Actively contributing to my open-source coding community: [Ground Zero Coders](https://github.com/Ground-Zero-Coders)
 - 💻 Freelancing as a **Full Stack Web Developer** – delivering responsive websites and client projects
-- 🎨 Growing and managing my **Creative Agency** – handling branding, content design.
+- 🎨 - 🎨 Growing and managing my [**Creative Agency – Digital Panda**](https://www.instagram.com/_digital.panda_) – focused on branding, content design, and digital media strategy
 
 ## 📊 GitHub Stats
 
