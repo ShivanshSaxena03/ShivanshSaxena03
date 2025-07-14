@@ -33,7 +33,7 @@
 - 🎓 Pursuing **B.Tech + Integrated M.Tech in Computer Science** at **Jaypee Institute of Information Technology (JIIT)**  
 - 🌐 Visit my Portfolio: [**shivanshsaxena.pythonanywhere.com**](https://shivanshsaxena.pythonanywhere.com)  
 - 🚀 Exploring **Full Stack Development**, **Python**, **AI/ML**.
-- 💼 - 💼 Founder of a [**Creative Agency – Digital Panda**](https://www.instagram.com/_digital.panda_) – specializing in **Video Editing** and **Graphic Design**
+- 💼 Founder of a [**Creative Agency – Digital Panda**](https://www.instagram.com/_digital.panda_) – specializing in **Video Editing** and **Graphic Design**
 - 👥 Running a tech-driven coding community: **[Ground Zero Coders](https://github.com/Ground-Zero-Coders)**  
 - 🛠️ Love building open-source projects and collaborating with communities
 
