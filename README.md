@@ -85,9 +85,9 @@
 
 ## 🧑‍💻 Tools I Use Often
 
-- VS Code, Git & GitHub  
+- VS Code, Git & GitHub , Jupyter Notebook 
 - PythonAnywhere , Netlify
-- Linux Terminal, MySQL Workbench, ChatGPT
+- Linux Terminal, MySQL Workbench
 
 ---
 ## 🎯 Current Focus
