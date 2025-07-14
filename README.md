@@ -76,6 +76,11 @@
 - Linux Terminal, MySQL Workbench, ChatGPT
 
 ---
+## 🎯 Current Focus
+
+- 🤝 Actively contributing to my open-source coding community: [Ground Zero Coders](https://github.com/Ground-Zero-Coders)
+- 💻 Freelancing as a **Full Stack Web Developer** – delivering responsive websites and client projects
+- 🎨 Growing and managing my **Creative Agency** – handling branding, content design.
 
 ## 📊 GitHub Stats
 
