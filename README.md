@@ -4,7 +4,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivansh Saxena</h1>
-<p align="center">CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Learner | Founder @ Digital Panda | Founder @ Ground Zero Coders| Building Tech Communities</p>
+<p align="center">
+  CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Learner | 
+  <a href="https://www.instagram.com/_digital.panda_" target="_blank">Founder @ Digital Panda</a> | 
+  <a href="https://github.com/Ground-Zero-Coders" target="_blank">Founder @ Ground Zero Coders</a> | 
+  Building Tech Communities
+</p>
+
 
 ---
 
