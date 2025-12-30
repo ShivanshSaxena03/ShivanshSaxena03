@@ -6,8 +6,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Saxena</h1>
 <p align="center">
   CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Learner | 
-  Founder <a href="https://www.instagram.com/_digital.panda_" target="_blank"><b>@Digital Panda</b></a> | 
-  Building impactful projects, open-source tools & tech-driven communities
+  Building impactful projects, open-source tools
 </p>
 
 
@@ -32,8 +31,6 @@
 - 🎓 Pursuing **B.Tech + Integrated M.Tech in Computer Science** at **Jaypee Institute of Information Technology (JIIT)**  
 - 🌐 Visit my Portfolio: [**shivanshsaxena.pythonanywhere.com**](https://shivanshsaxena.pythonanywhere.com)  
 - 🚀 Exploring **Full Stack Development**, **Python**, **AI/ML**.
-- 💼 Founder of a [**Creative Agency – Digital Panda**](https://www.instagram.com/_digital.panda_) – specializing in **Video Editing** and **Graphic Design**
-- 👥 Running a tech-driven coding community: **[Ground Zero Coders](https://github.com/Ground-Zero-Coders)**  
 - 🛠️ Love building open-source projects and collaborating with communities
 
 ---
