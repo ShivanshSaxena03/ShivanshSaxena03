@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivansh Saxena</h1>
 <p align="center">
-  CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Learner | 
+  CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Developer | 
   Building impactful projects, open-source tools
 </p>
 
@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech + Integrated M.Tech in Computer Science** at **Jaypee Institute of Information Technology (JIIT)**  
-- 🌐 Visit my Portfolio: [**shivanshsaxena.pythonanywhere.com**](https://shivanshsaxena.pythonanywhere.com)  
+- 🌐 Visit my Portfolio: [**Portfolio**](https://shivanshsaxena03.vercel.app)  
 - 🚀 Exploring **Full Stack Development**, **Python**, **AI/ML**.
 - 🛠️ Love building open-source projects and collaborating with communities
 
