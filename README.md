@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech + Integrated M.Tech in Computer Science** at **Jaypee Institute of Information Technology (JIIT)**  
-- 🌐 Visit my Portfolio: [**Portfolio**](shivanshsaxena03.vercel.app)  
+- 🌐 Visit my Portfolio: [**Portfolio**](https://shivanshsaxena03.vercel.app)  
 - 🚀 Exploring **Full Stack Development**, **Python**, **AI/ML**.
 - 🛠️ Love building open-source projects and collaborating with communities
 
